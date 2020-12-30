@@ -106,7 +106,7 @@ sha256sums=('3239a4ee1250bf2048be988cc8cb46c487b2c8a0de5b1b032d38394d5c6b1a06'  
             'SKIP'                                                              #        tar.sign
             '85f09e233425bda814f7727a946474f40adce258073174a6417acc917b4f5bf9'  # xanmod
             '2c7369218e81dee86f8ac15bda741b9bb34fa9cefcb087760242277a8207d511'  # choose-gcc-optimization.sh
-            'SKIP'
+            'SKIP'                                                                                                                                        #gentoo 
             'c8e292d760772c5ef6ca7fa46c78cb4b3a218a466f2c3c9095126f26b0fa0b6b') # manjaro
 validpgpkeys=(
     'ABAF11C65A2970B130ABE3C479BE3E4300411886' # Linux Torvalds
